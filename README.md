@@ -1,6 +1,6 @@
 # Linux Terminal
 
-__Basic command lines__
+### Basic command lines
 
 * To open and unzip a file:
 ```bash
@@ -27,7 +27,7 @@ sed -i 's/$/.txt/' file.txt
 sed -i.bak 's/\.png$//' file
 ```
 
-__Command lines to create a virtual environment and install packages__
+### Command lines to create a virtual environment and install packages
 
 * To create the environment:
 ```bash
